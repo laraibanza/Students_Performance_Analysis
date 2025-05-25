@@ -8,11 +8,9 @@
 
 Checked for duplicates and null values.
 
-Renamed columns for clarity and consistency.
-
 🧮 Feature Engineering:
 
-Created average_score = (math + reading + writing) / 3.
+Created average score = (math + reading + writing) / 3.
 
 Generated pass/fail status based on an average score threshold.
 
